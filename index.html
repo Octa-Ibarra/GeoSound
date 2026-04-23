@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="description" content="GeoSound: Descubre que los sonidos y las figuras geométricas comparten el mismo lenguaje matemático. Basado en la armonía geométrica pitagórica para niños de 9 a 12 años." />
+  <title>GeoSound — Armonía Geométrica Pitagórica</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+  <div class="ambient-spline-bg ambient-galaxy-bg" aria-hidden="true">
+    <canvas id="ambient-galaxy-canvas"></canvas>
+    <div class="ambient-galaxy-halo"></div>
+    <div class="ambient-spline-overlay"></div>
+  </div>
+
+  <!-- ====== PANTALLA HOME ====== -->
+  <div id="screen-home" class="screen active">
+    <div class="stars-bg"></div>
+    <nav class="home-nav" aria-label="Navegacion principal">
+      <div class="home-nav-brand">
+        <span class="home-nav-mark"></span>
+        <span>GeoSound</span>
+      </div>
+      <div class="home-nav-links">
+        <button class="home-nav-link" data-target-screen="production">Estudio</button>
+        <button class="home-nav-link" data-target-screen="mode1">Monocordio</button>
+        <button class="home-nav-link" data-target-screen="mode2">Geometria</button>
+        <button class="home-nav-link" data-target-screen="mode3">Retos</button>
+      </div>
+    </nav>
+    <div class="home-content">
+      <div class="home-hero-grid">
+        <section class="home-copy">
+      <div class="logo-mark">
+        <svg viewBox="0 0 120 120" class="logo-svg" aria-hidden="true">
+          <!-- Círculo cromático simplificado -->
+          <circle cx="60" cy="60" r="50" fill="none" stroke="rgba(255,210,80,0.3)" stroke-width="1"/>
+          <circle cx="60" cy="60" r="38" fill="none" stroke="rgba(255,210,80,0.15)" stroke-width="1"/>
+          <!-- Triángulo dorado -->
+          <polygon points="60,14 100,88 20,88" fill="none" stroke="rgba(255,210,80,0.8)" stroke-width="2" stroke-linejoin="round"/>
+          <!-- Puntos en el círculo -->
+          <circle cx="60" cy="10" r="4" fill="#FFD250"/>
+          <circle cx="101" cy="85" r="4" fill="#7EB8FF"/>
+          <circle cx="19" cy="85" r="4" fill="#A8FFB0"/>
+          <!-- Centro -->
+          <circle cx="60" cy="60" r="6" fill="rgba(255,210,80,0.6)"/>
+        </svg>
+      </div>
+      <p class="home-kicker">Laboratorio STEAM de sonido y geometria</p>
+      <h1 class="home-title">GeoSound</h1>
+      <p class="home-subtitle">Compone, mira y escucha como las proporciones convierten una cuerda, un circulo y una galaxia en musica.</p>
+      <p class="home-author">Basado en la investigación de Andrea Ahumada · Laboratorio CREA · Universidad de los Andes · Universidad Sergio Arboleda</p>
+
+      <!-- BOTÓN PRINCIPAL: PRODUCCIÓN MUSICAL -->
+      <div class="production-entry">
+        <button class="mode-card featured btn-produce" id="btn-produce">
+          <div class="mode-card-icon">🚀</div>
+          <h2 class="mode-card-title">La Fábrica de Canciones (Modo Guiado)</h2>
+          <p class="mode-card-desc">Produce tu propia canción paso a paso, usando matemáticas puras. (Tempo, Ritmos Fraccionarios y Geometría Armónica).</p>
+          <span class="mode-card-badge featured-badge">NUEVO MODO PRINCIPAL</span>
+        </button>
+      </div>
+
+      <div class="exploration-section">
+        <h3 class="exploration-title">Laboratorio de Exploración Aislada</h3>
+        <div class="mode-cards">
+          <button class="mode-card" id="btn-mode1" aria-label="Modo 1: El Monocordio">
+            <div class="mode-card-icon">🎵</div>
+            <div class="mode-card-title">El Monocordio</div>
+            <div class="mode-card-desc">Divide una cuerda y escucha cómo cambian los tonos</div>
+            <div class="mode-card-badge">Exploración</div>
+          </button>
+          <button class="mode-card" id="btn-mode2" aria-label="Modo 2: El Círculo de las Formas">
+            <div class="mode-card-icon">🔵</div>
+            <div class="mode-card-title">El Círculo de las Formas</div>
+            <div class="mode-card-desc">Toca notas y observa cómo nacen polígonos en el círculo</div>
+            <div class="mode-card-badge">Geometría</div>
+          </button>
+          <button class="mode-card" id="btn-mode3" aria-label="Modo 3: El Reto Pitagórico">
+            <div class="mode-card-icon">🎮</div>
+            <div class="mode-card-title">El Reto Pitagórico</div>
+            <div class="mode-card-desc">Misiones para descubrir figuras secretas con sonidos</div>
+            <div class="mode-card-badge">Desafío</div>
+          </button>
+        </div>
+      </div>
+
+      <div class="makey-indicator" id="makey-status" aria-live="polite">
+        <span class="makey-dot" id="makey-dot"></span>
+        <span id="makey-label">Presiona una tecla para detectar Makey Makey</span>
+      </div>
+        </section>
+      </div>
+    </div>
+  </div>
+
+  <!-- ====== PANTALLA MODO 1: MONOCORDIO ====== -->
+  <div id="screen-mode1" class="screen">
+    <header class="screen-header">
+      <button class="btn-back" id="back-from-mode1" aria-label="Volver al inicio">← Inicio</button>
+      <h2 class="screen-title">🎵 El Monocordio de Pitágoras</h2>
+      <div class="header-spacer"></div>
+    </header>
+
+    <main class="mode1-layout">
+      <div class="monochord-panel">
+        <div class="monochord-instruction">
+          <p>Arrastra el punto naranja para dividir la cuerda.<br>Escucha cómo el número cambia el sonido.</p>
+        </div>
+        <div class="monochord-container" id="monochord-container">
+          <canvas id="monochord-canvas" aria-label="Cuerda del monocordio"></canvas>
+          <div class="ratio-display" id="ratio-display">
+            <span class="ratio-frac" id="ratio-num">1</span>
+            <div class="ratio-sep"></div>
+            <span class="ratio-frac" id="ratio-den">1</span>
+          </div>
+        </div>
+        <div class="interval-name" id="interval-name">Toca la cuerda completa</div>
+        <div class="play-button-row">
+          <button class="btn-play-string" id="btn-play-left" aria-label="Tocar segmento izquierdo">▶ Escuchar</button>
+          <button class="btn-play-string full" id="btn-play-full" aria-label="Tocar cuerda completa">♦ Cuerda completa</button>
+          <button class="btn-play-string" id="btn-play-right" aria-label="Tocar segmento derecho">▶ Escuchar</button>
+        </div>
+      </div>
+
+      <div class="monochord-sidebar">
+        <h3 class="sidebar-title">Proporciones de Pitágoras</h3>
+        <div class="ratio-buttons" id="ratio-buttons">
+          <button class="ratio-btn" data-ratio="0.5" data-name="Octava" data-fraction="1:2" id="ratio-btn-0">
+            <span class="ratio-btn-frac">1:2</span>
+            <span class="ratio-btn-name">Octava</span>
+            <span class="ratio-btn-key">↑</span>
+          </button>
+          <button class="ratio-btn" data-ratio="0.667" data-name="Quinta (Sol)" data-fraction="2:3" id="ratio-btn-1">
+            <span class="ratio-btn-frac">2:3</span>
+            <span class="ratio-btn-name">Quinta</span>
+            <span class="ratio-btn-key">→</span>
+          </button>
+          <button class="ratio-btn" data-ratio="0.75" data-name="Cuarta (Fa)" data-fraction="3:4" id="ratio-btn-2">
+            <span class="ratio-btn-frac">3:4</span>
+            <span class="ratio-btn-name">Cuarta</span>
+            <span class="ratio-btn-key">↓</span>
+          </button>
+          <button class="ratio-btn" data-ratio="0.8" data-name="Tercera Mayor (Mi)" data-fraction="4:5" id="ratio-btn-3">
+            <span class="ratio-btn-frac">4:5</span>
+            <span class="ratio-btn-name">Tercera Mayor</span>
+            <span class="ratio-btn-key">←</span>
+          </button>
+          <button class="ratio-btn accent" data-ratio="1.0" data-name="Unísono (Do)" data-fraction="1:1" id="ratio-btn-full">
+            <span class="ratio-btn-frac">1:1</span>
+            <span class="ratio-btn-name">Unísono</span>
+            <span class="ratio-btn-key">Espacio</span>
+          </button>
+        </div>
+        <div class="pythagorean-fact" id="pyth-fact">
+          <p class="fact-text">Pitágoras descubrió estas proporciones escuchando los martillos de una herrería. Cada martillo tenía un peso diferente y producía un sonido proporcional.</p>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- ====== PANTALLA MODO 2: CÍRCULO CROMÁTICO ====== -->
+  <div id="screen-mode2" class="screen">
+    <header class="screen-header">
+      <button class="btn-back" id="back-from-mode2" aria-label="Volver al inicio">← Inicio</button>
+      <h2 class="screen-title">🔵 El Círculo de las Formas</h2>
+      <div class="header-spacer"></div>
+    </header>
+
+    <main class="mode2-layout">
+      <div class="chromatic-panel" id="chromatic-panel">
+        <canvas id="chromatic-canvas" aria-label="Círculo cromático con polígonos musicales"></canvas>
+        <div id="floating-shapes-container" class="floating-shapes-container"></div>
+      </div>
+
+      <div class="chromatic-sidebar">
+        <h3 class="sidebar-title">Notas activas</h3>
+        <div class="active-notes-display" id="active-notes-display">
+          <p class="no-notes-hint">Toca una nota para comenzar</p>
+        </div>
+        <div class="shape-reveal" id="shape-reveal">
+          <div class="shape-name" id="shape-name"></div>
+          <div class="shape-desc" id="shape-desc"></div>
+          <button class="btn-save-shape hidden" id="btn-save-shape">📌 Guardar figura</button>
+        </div>
+
+        <h3 class="sidebar-title">Tus teclas</h3>
+        <div class="note-buttons" id="note-buttons">
+          <button class="note-btn" data-note="0" id="note-btn-0" aria-label="Nota Do">
+            <span class="note-key">Espacio</span>
+            <span class="note-label">Do</span>
+            <span class="note-freq">261 Hz</span>
+          </button>
+          <button class="note-btn" data-note="4" id="note-btn-4" aria-label="Nota Mi">
+            <span class="note-key">↑</span>
+            <span class="note-label">Mi</span>
+            <span class="note-freq">330 Hz</span>
+          </button>
+          <button class="note-btn" data-note="7" id="note-btn-7" aria-label="Nota Sol">
+            <span class="note-key">→</span>
+            <span class="note-label">Sol</span>
+            <span class="note-freq">392 Hz</span>
+          </button>
+          <button class="note-btn" data-note="9" id="note-btn-9" aria-label="Nota La">
+            <span class="note-key">↓</span>
+            <span class="note-label">La</span>
+            <span class="note-freq">440 Hz</span>
+          </button>
+          <button class="note-btn" data-note="11" id="note-btn-11" aria-label="Nota Si">
+            <span class="note-key">←</span>
+            <span class="note-label">Si</span>
+            <span class="note-freq">494 Hz</span>
+          </button>
+          <button class="note-btn special" data-note="clear" id="note-btn-clear" aria-label="Limpiar todas las notas">
+            <span class="note-key">Click</span>
+            <span class="note-label">Limpiar</span>
+            <span class="note-freq">✕</span>
+          </button>
+        </div>
+
+        <div class="preset-chords">
+          <h3 class="sidebar-title">Acordes famosos</h3>
+          <button class="chord-btn" data-chord="major" id="chord-major">Do Mayor → Triángulo</button>
+          <button class="chord-btn" data-chord="pent" id="chord-pent">Pentatónica → Estrella</button>
+          <button class="chord-btn" data-chord="dim" id="chord-dim">Aumentado → Triángulo equilátero</button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- ====== PANTALLA MODO 3: RETOS ====== -->
+  <div id="screen-mode3" class="screen">
+    <header class="screen-header">
+      <button class="btn-back" id="back-from-mode3" aria-label="Volver al inicio">← Inicio</button>
+      <h2 class="screen-title">🎮 El Reto Pitagórico</h2>
+      <div class="challenge-progress" id="challenge-progress">
+        <span id="challenge-num">1</span> / <span id="challenge-total">5</span>
+      </div>
+    </header>
+
+    <main class="mode3-layout">
+      <div class="challenge-left">
+        <div class="challenge-card" id="challenge-card">
+          <div class="challenge-emoji" id="challenge-emoji">🎯</div>
+          <h3 class="challenge-question" id="challenge-question">¿Qué figura forman Do, Mi y Sol?</h3>
+          <p class="challenge-hint" id="challenge-hint">Usa las teclas o toca los botones para activar las notas</p>
+        </div>
+        <canvas id="challenge-canvas" aria-label="Círculo del reto actual"></canvas>
+      </div>
+
+      <div class="challenge-right">
+        <div class="challenge-note-buttons" id="challenge-note-buttons">
+          <!-- Se genera dinámicamente -->
+        </div>
+        <div class="challenge-feedback" id="challenge-feedback" aria-live="polite"></div>
+        <div class="challenge-nav">
+          <button class="btn-challenge-action" id="btn-challenge-check" aria-label="Verificar respuesta">Comprobar ✓</button>
+          <button class="btn-challenge-action secondary" id="btn-challenge-skip" aria-label="Siguiente reto">Siguiente →</button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- ====== OVERLAY DE CELEBRACIÓN ====== -->
+  <div id="celebration-overlay" class="celebration-overlay hidden" aria-hidden="true">
+    <div class="celebration-content">
+      <div class="celebration-emoji" id="celebration-emoji">🎉</div>
+      <div class="celebration-title" id="celebration-title">¡Pitágoras estaría orgulloso!</div>
+      <div class="celebration-fact" id="celebration-fact"></div>
+      <button class="btn-celebration-continue" id="btn-celebration-continue">Continuar →</button>
+    </div>
+  </div>
+
+  <!-- ====== MODAL DE GEOMETRÍA (INSPECCIÓN) ====== -->
+  <div id="geometry-modal" class="geometry-modal hidden" aria-hidden="true">
+    <div class="geometry-modal-content">
+      <button class="btn-close-modal" id="btn-close-geometry" aria-label="Cerrar modal">✕</button>
+      <h3 class="geometry-title" id="geometry-title">Análisis Geométrico</h3>
+      <div class="geometry-sandbox">
+        <canvas id="geometry-canvas" class="geometry-canvas"></canvas>
+      </div>
+      <p class="geometry-info" id="geometry-info"></p>
+    </div>
+  </div>
+
+  <!-- ====== MODO PRODUCCIÓN GUIADA ====== -->
+  <div id="screen-production" class="screen" aria-hidden="true">
+    <header class="screen-header">
+      <button class="btn-back" aria-label="Volver al inicio">← Inicio</button>
+      <h2 class="screen-title" id="prod-title">Estudio de Pitágoras</h2>
+      <div class="prod-progress" id="prod-progress">Paso 1 / 6</div>
+    </header>
+
+    <main class="prod-layout">
+      <!-- Breadcumbs y Navegación del Flujo -->
+      <div class="prod-breadcrumbs" role="navigation" aria-label="Pasos del estudio">
+        <span class="step-crumb active" data-step="1" title="Tempo (velocidad)">1 · Tempo</span>
+        <span class="step-divider" aria-hidden="true">→</span>
+        <span class="step-crumb" data-step="2" title="Ritmo (fracciones)">2 · Ritmo</span>
+        <span class="step-divider" aria-hidden="true">→</span>
+        <span class="step-crumb" data-step="3" title="Armonía (geometría)">3 · Armonía</span>
+        <span class="step-divider" aria-hidden="true">→</span>
+        <span class="step-crumb" data-step="4" title="Melodía (proporción)">4 · Melodía</span>
+        <span class="step-divider" aria-hidden="true">→</span>
+        <span class="step-crumb" data-step="5" title="Bajo (gravedad)">5 · Bajo</span>
+        <span class="step-divider" aria-hidden="true">→</span>
+        <span class="step-crumb" data-step="6" title="DAW (mezclador)">6 · DAW</span>
+      </div>
+
+      <!-- Contenedor dinámico donde se cargarán los pasos -->
+      <div class="prod-step-container" id="prod-step-container" tabindex="0" aria-label="Contenido del paso (usa la rueda del ratón o desplázate con la barra lateral)">
+        <!-- JS inyectará aquí los bloques (Paso 1 a 5) -->
+      </div>
+      
+      <!-- Navegación Inferior -->
+      <div class="prod-footer-nav">
+        <button class="btn-prod-nav secondary hidden" id="btn-prod-prev">← Atrás</button>
+        <button class="btn-prod-nav" id="btn-prod-next" disabled>Siguiente →</button>
+      </div>
+    </main>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

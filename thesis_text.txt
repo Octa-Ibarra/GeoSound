@@ -1,0 +1,1156 @@
+
+
+--- PAGE 1 ---
+LA MÚSICA EN EL DESARROLLO DE LA ARMONÍA GEOMÉTRICA 
+PITAGÓRICA EN NIÑOS DE 9 A 12 AÑOS EN UN LABORATORIO STEAM 
+DE LA UNIVERSIDAD DE LOS ANDES 
+ 
+ 
+ 
+ 
+ 
+ 
+Andrea Carolina Ahumada Ahumada  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIVERSIDAD SERGIO ARBOLEDA  
+ESCUELA DE ARTES Y CREACIÓN 
+2026 
+
+
+--- PAGE 2 ---
+LA MÚSICA EN EL DESARROLLO DE LA ARMONÍA GEOMÉTRICA 
+PITAGÓRICA EN NIÑOS DE 9 A 12 AÑOS EN UN LABORATORIO STEAM 
+DE LA UNIVERSIDAD DE LOS ANDES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Andrea Carolina Ahumada Ahumada  
+Asesor: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIVERSIDAD SERGIO ARBOLEDA  
+ESCUELA DE ARTES Y CREACIÓN 
+2026 
+
+
+--- PAGE 3 ---
+Contenido 
+1. 
+ASPECTOS GENERALES DE LA INVESTIGACIÓN ....................................................... 4 
+1.1 
+Descripción del Problema. ............................................................................... 4 
+1.2. Pregunta de Investigación. ................................................................................... 5 
+1.3. Antecedentes. ..................................................................................................... 5 
+1.4. Justificación. ....................................................................................................... 9 
+1.5. Objetivos ........................................................................................................... 10 
+1.5.2 
+Objetivos Específicos ............................................................................. 10 
+2. 
+Marco Teórico ................................................................................................... 11 
+2.1 
+Armonía Geométrica Pitagórica ...................................................................... 11 
+3. 
+Marco Metodológico ...................................................................................... 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La motivación para el estudio surgió de la necesidad de encontrar métodos alternativos para enseñar 
+matemáticas, ya que la música ha demostrado ser útil en este campo 
+
+
+--- PAGE 4 ---
+1. ASPECTOS GENERALES DE LA INVESTIGACIÓN 
+ 
+1.1 Descripción del Problema. 
+En el Laboratorio STEAM de la Universidad de los Andes, conocido como CREA, se 
+promueve el uso de tecnologías emergentes como la realidad virtual, la robótica o la 
+impresión 3D para enriquecer las experiencias de enseñanza y aprendizaje. Sin 
+embargo, hay un campo poco explorado: la música como recurso creativo dentro de 
+este tipo de proyectos. La música no solo es un lenguaje artístico, también es una 
+herramienta que despierta los sentidos, estimula la imaginación y ayuda a comprender 
+conceptos que, en principio, pueden parecer muy abstractos. 
+ 
+La música, a diferencia de otros lenguajes artísticos, tiene una cualidad única. Es 
+capaz de atravesar las barreras del pensamiento lógico y conectar directamente con lo 
+emocional y lo sensorial. Una melodía puede evocar imágenes, generar recuerdos, 
+estimular la imaginación y, en muchos casos, facilitar la comprensión de ideas 
+abstractas. Desde esta perspectiva, pensar la música únicamente como un medio de 
+entretenimiento o expresión artística sería reducir su verdadero potencial. En un 
+contexto educativo, puede convertirse en un puente creativo para unir lo que parece 
+lejano: la sensibilidad estética y el razonamiento matemático. 
+ 
+Un ejemplo claro de este vínculo se encuentra en la enseñanza de la geometría. 
+Tradicionalmente, esta disciplina se presenta a través de representaciones gráficas, 
+explicaciones teóricas o la resolución de problemas en papel. Estos métodos resultan 
+útiles, pero tienden a dejar de lado la vivencia práctica y el carácter experiencial del 
+aprendizaje. No es raro escuchar a los estudiantes decir que la geometría es abstracta, 
+fría o demasiado técnica. Sin embargo, si se observa desde otra óptica, la geometría 
+está profundamente relacionada con la música. 
+ 
+Desde la antigüedad, pensadores como Pitágoras encontraron conexiones entre los 
+números, la armonía musical y las proporciones geométricas. La idea de que los 
+sonidos obedecen a patrones matemáticos demuestra que ambas disciplinas 
+comparten estructuras similares: ritmos, secuencias, proporciones y simetrías. De 
+
+
+--- PAGE 5 ---
+hecho, conceptos como la repetición, la variación o la progresión se pueden encontrar 
+tanto en una partitura como en un polígono o una figura fractal. Esta relación abre un 
+campo de posibilidades fascinante para que los niños no solo estudien la geometría de 
+forma teórica, sino que la experimenten a través de la música, sintiendo sus patrones 
+en lugar de solo verlos representados en un cuaderno. 
+ 
+No se trata de que los estudiantes tengan dificultades con la geometría, sino de 
+ofrecerles un puente creativo entre lo matemático y lo artístico. A través de sonidos, 
+ritmos y armonías, se pueden diseñar actividades donde la geometría se viva de 
+manera participativa y multisensorial. Esto no solo favorece la comprensión, también 
+aumenta la motivación, el interés y el disfrute en el aprendizaje. 
+ 
+Hoy en día, en el Laboratorio CREA aún no se han desarrollado proyectos que tengan 
+la música como eje central de las experiencias inmersivas, lo que representa una 
+oportunidad interesante para fortalecer el carácter interdisciplinar de sus propuestas. 
+Incorporar la música permitiría enriquecer lo que ya existe, generando espacios en los 
+que lo científico y lo artístico dialoguen para ofrecer a los niños una formación más 
+completa. 
+ 
+De ahí surge la necesidad de explorar cómo la música puede convertirse en un recurso 
+clave dentro del diseño de experiencias inmersivas orientadas al aprendizaje de la 
+geometría. El objetivo no sería únicamente facilitar la comprensión de conceptos 
+matemáticos, sino también estimular la creatividad, la sensibilidad estética y el 
+aprendizaje vivencial de los estudiantes. 
+1.2. Pregunta de Investigación.  
+¿De qué manera la armonía geométrica Pitagórica como recurso creativo y pedagógico puede 
+fortalecer el aprendizaje de la geometría pitagórica en niños de 9 a 12 años, a través de 
+experiencias inmersivas en el laboratorio STEAM de la Universidad de los Andes? 
+ 
+1.3. Antecedentes.  
+La música y la matemática ha sido entendida, desde la Antigüedad, como un terreno en 
+el que dialogan a partir de proporciones, simetrías y patrones. El caso más citado es el de 
+
+
+--- PAGE 6 ---
+Pitágoras, quien en el siglo VI a. C. descubrió que la longitud de una cuerda vibrante 
+guardaba una relación precisa con los intervalos musicales. Este hallazgo abrió la 
+posibilidad de pensar la música como una manifestación numérica en movimiento. En 
+tiempos recientes, esa misma conexión se ha retomado con enfoques más sistemáticos, 
+que aplican herramientas geométricas para estudiar estructuras musicales complejas y, al 
+mismo tiempo, explorar su potencial pedagógico. 
+Diversas investigaciones han explorado la relación entre la música y las matemáticas 
+como un recurso pedagógico innovador. Un ejemplo concreto lo ofrece la tesis de Stephen 
+Atepor (2020), de la Universidad de Cape Coast (Ghana) bajo la dirección de Benjamin 
+Yao Sokpe, titulada Supporting Geometry Classes with Music: Investigating the Effects 
+on Attitude and Achievement of Basic Eight Students. Esta se llevó a cabo en el Complejo 
+Escolar Great Winners, en Hohoe (Región del Volta, Ghana), con estudiantes de octavo 
+básico durante el año académico 2019/2020. El propósito principal fue indagar el efecto 
+de integrar canciones en las clases de geometría sobre las actitudes y logros de los 
+alumnos, respondiendo a la necesidad de encontrar métodos alternativos para la 
+enseñanza de las matemáticas.  
+En el marco teórico se sustenta la Teoría de las Inteligencias Múltiples de Gardner (1995), 
+que reconoce la inteligencia musical como un canal válido para el aprendizaje, y en la 
+Teoría del Rendimiento de Don Elger (1962), que enfatiza la importancia de la 
+motivación y la práctica reflexiva para alcanzar un aprendizaje significativo. Desde esta 
+perspectiva, la música se concibió como un recurso que potencia la memoria, estimula 
+emociones y sirve de soporte social e intelectual en el aula.  
+El diseño metodológico fue cuasi-experimental, con grupo de control no equivalente y 
+medición pre-postprueba, complementado con entrevistas cualitativas. En esta 
+investigación participaron alrededor de 88 estudiantes: 41 en el grupo experimental y 47 
+en el de control. Los primeros recibieron clases de geometría apoyadas en canciones, 
+donde destaca la llamada G-Song, construida sobre la melodía del himno sudafricano 
+Nkosi Sikelel’ iAfrika e integrada con fórmulas de área y volumen, mientras que el 
+segundo grupo continuó con la enseñanza habitual. 
+Los resultados fueron reveladores. El grupo experimental pasó de un promedio de 
+57.59% en el pretest a 75.83% en el postest, mientras que el grupo de control solo avanzó 
+
+
+--- PAGE 7 ---
+de 64.53% a 70.62%. El análisis de covarianza (ANCOVA) confirmó que las diferencias 
+eran estadísticamente significativas. Más allá de los números, los estudiantes señalaron 
+que las canciones les permitían recordar fórmulas y perder el temor hacia una materia que 
+solían considerar “fría” o demasiado abstracta. En síntesis, este antecedente mostró que 
+la música puede servir de puente entre lo racional y lo emocional en la enseñanza de la 
+geometría. 
+De igual manera, Villamil Bustos (2020), en su trabajo de grado titulado La música como 
+herramienta para la enseñanza de las matemáticas, presentado en la Universidad 
+Pedagógica Nacional en Bogotá, diseñó y aplicó una serie de talleres dirigidos a 
+estudiantes de octavo grado de la Unidad Educativa El Futuro del Mañana. La propuesta 
+surgió ante las dificultades que enfrentaban los estudiantes para transitar de la aritmética 
+al álgebra: el uso de variables, la generalización y la proporcionalidad eran los principales 
+obstáculos. Villamil planteó cinco talleres: dos sobre ritmo, dos sobre armonía y uno 
+sobre melodía, en los que utilizó herramientas tecnológicas como Ableton Learning y 
+DaTuner. 
+El diseño fue cualitativo, con alcance descriptivo y experimental, e incluyó un grupo de 
+control y otro experimental (60 estudiantes en total). Los resultados mostraron una 
+diferencia clara: mientras el grupo de control apenas mejoró un 6.8%, el experimental 
+alcanzó un 19.79%. Los alumnos no solo obtuvieron mejores puntajes, sino que también 
+manifestaron mayor motivación. En este caso, las analogías entre música y álgebra como 
+las repeticiones rítmicas con patrones algebraicos o la proporcionalidad con la armonía 
+permitieron que nociones abstractas se transformaran en experiencias perceptibles. 
+En un nivel más teórico, Demaine et al. (2009) publicaron The Distance Geometry of 
+Music, donde demostraron que el algoritmo de Euclides puede generar secuencias 
+binarias que distribuyen pulsos de manera uniforme en el tiempo. Estos llamados ritmos 
+euclidianos aparecen en más de cuarenta tradiciones musicales, entre ellas el tresillo y el 
+cinquillo cubano. Los autores destacaron dos propiedades clave: la regularidad 
+(distribución equitativa de acentos) y la profundidad (variedad de distancias entre pulsos). 
+Además, mostraron aplicaciones que van desde la física (sincronización de aceleradores 
+de neutrones) hasta la computación (algoritmos de dibujo digital) y el diseño de 
+calendarios. Para su representación emplearon diagramas circulares, notación de cajas y 
+secuencias binarias, insistiendo en el carácter cíclico tanto del ritmo como de la escala. 
+
+
+--- PAGE 8 ---
+En la misma línea, Papadopoulos (2014), en Mathematics and Group Theory in Music, 
+analizó la obra de Olivier Messiaen y reveló cómo incorporó principios matemáticos, 
+permutaciones, simetrías, números primos, periodicidad en su música y en su enseñanza. 
+Entre sus contribuciones se encuentran los ritmos no retrogradables, las permutaciones 
+simétricas y los modos de transposición limitada, todos ejemplos de estructuras 
+matemáticas aplicadas a la composición. Papadopoulos vincula estas prácticas con la 
+tradición pitagórica y el Quadrivium, recordando que desde la antigüedad la música ha 
+estado atravesada por proporciones y simetrías. En Messiaen, además, estos principios 
+adquieren un matiz estético y creativo, llegando incluso a expresarse en fenómenos de 
+sinestesia entre sonido y color. 
+Por último, Pachón Casas (2015), en su tesis Matemáticas y Música: Una mirada a la 
+Armonía desde la Teoría de Grupos, retomó la idea de representar las notas de la escala 
+temperada mediante el grupo abeliano. A partir de esta base, analizó transformaciones 
+como transposición, inversión y retrogradación, relacionándolas con estructuras más 
+complejas como el grupo diedro o el grupo de Klein. El autor concluyó que muchas 
+técnicas compositivas desde la armonía clásica hasta el serialismo, pueden comprenderse 
+como operaciones matemáticas. Sin embargo, advirtió que la formalización matemática 
+no siempre asegura un resultado estético válido, lo que obliga a mantener un equilibrio 
+entre el rigor analítico y la sensibilidad musical. 
+Estos antecedentes confirman que la integración entre música y matemáticas es no solo 
+posible, sino también productiva: mejora el rendimiento, fomenta la motivación y abre 
+vías para comprender conceptos abstractos. Pese a ello, la mayoría de los estudios se han 
+concentrado en el álgebra o en análisis teóricos de patrones. Queda todavía un espacio 
+menos explorado: el uso de la música en la enseñanza de la geometría en entornos 
+inmersivos. Ese vacío constituye el punto de partida de la presente investigación, 
+desarrollada en el Laboratorio STEAM de la Universidad de los Andes. 
+ 
+ 
+
+
+--- PAGE 9 ---
+1.4. Justificación.   
+Incorporar la música en el Laboratorio STEAM CREA de la Universidad de los Andes 
+abre una oportunidad concreta para enriquecer las experiencias de enseñanza y 
+aprendizaje, sobre todo en un campo que a muchos les resulta abstracto: la geometría. La 
+música no solo es un lenguaje artístico; también funciona como un recurso que despierta 
+la imaginación, favorece la creatividad y ayuda a comprender conceptos que de otra 
+manera podrían sentirse lejanos. Al integrarla en este espacio, se busca ofrecer a los 
+estudiantes un aprendizaje más completo, donde lo sensorial y lo racional dialoguen de 
+manera natural. 
+En este sentido, la música adquiere un papel formativo que va más allá de lo estético. Sus 
+estructuras basadas en ritmo, proporción y simetría permiten conectar lo matemático con 
+lo artístico. A través de actividades musicales con un enfoque pedagógico, los estudiantes 
+pueden experimentar la geometría de forma vivencial y participativa, transformando una 
+disciplina abstracta en algo más cercano, multisensorial e incluso disfrutable. 
+Este trabajo responde, entonces, a la necesidad de fortalecer el carácter interdisciplinar 
+de los proyectos del CREA, explorando un terreno poco desarrollado: la música como 
+recurso central en experiencias educativas apoyadas en tecnologías emergentes. Vale 
+recordar que el enfoque STEAM (Ciencia, Tecnología, Ingeniería, Arte y Matemáticas) 
+que guía al laboratorio busca justamente esa integración. Desde esta perspectiva, la 
+música no solo amplía el componente artístico, sino que refuerza la visión integradora del 
+laboratorio, donde ciencia y creatividad se encuentran en un mismo proceso de 
+aprendizaje. 
+Los beneficios son claros. Para los estudiantes, la música se convierte en una vía para 
+comprender mejor la geometría, al tiempo que alimenta su imaginación y hace más ameno 
+el aprendizaje. Para el laboratorio CREA, significa diversificar sus proyectos y consolidar 
+su carácter innovador, integrando de manera equilibrada lo artístico y lo científico. 
+En el plano teórico, esta propuesta aporta al campo de la educación interdisciplinar, 
+retomando la tradición pitagórica que une música, matemáticas y geometría, pero 
+actualizándola con herramientas tecnológicas. Desde lo metodológico, abre la posibilidad 
+de diseñar actividades que promuevan la experimentación, la creatividad y el aprendizaje 
+
+
+--- PAGE 10 ---
+multisensorial, ofreciendo un modelo inspirador para otras instituciones interesadas en 
+tender puentes entre arte y ciencia. 
+Finalmente, a nivel profesional y académico, este trabajo muestra cómo la música puede 
+convertirse en un recurso pedagógico estratégico en entornos STEAM. Más que un 
+complemento artístico, aparece como un puente poderoso para integrar disciplinas, 
+potenciar el aprendizaje y enriquecer la formación de los estudiantes del siglo XXI. 
+ 
+1.5. Objetivos  
+1.5.1 Objetivo General 
+Desarrollar una propuesta pedagógica basada en la armonía geométrica pitagórica que 
+contribuya al aprendizaje de la matemática en niños de 9 a 12 años, a través de 
+experiencias inmersivas en el Laboratorio STEAM de la Universidad de los Andes. 
+ 
+1.5.2 Objetivos Específicos  
+• Analizar los fundamentos teóricos y antecedentes de la relación entre música, 
+geometría y pedagogía, como base conceptual para el diseño de la propuesta. 
+• Diseñar e implementar una estrategia pedagógica de carácter lúdico basada en la 
+armonía geométrica pitagórica, que permita fortalecer el aprendizaje de la 
+geometría en niños de 9 a 12 años dentro del Laboratorio STEAM de la 
+Universidad de los Andes. 
+• Evaluar la incidencia de la estrategia en el aprendizaje, la motivación y la actitud 
+de los estudiantes frente a la geometría, a través de experiencias inmersivas en el 
+Laboratorio STEAM. 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+2. Marco Teórico 
+2.1 Armonía Geométrica Pitagórica  
+En esta investigación se utiliza la expresión armonía geométrica pitagórica para nombrar 
+la concepción que desarrolló la escuela de Pitágoras: la idea de que las proporciones 
+matemáticas que organizan las figuras geométricas son las mismas que dan forma a los 
+intervalos musicales, y viceversa. Los pitagóricos descubrieron que relaciones numéricas 
+muy simples como 2:1 (la octava), 3:2 (la quinta) o 4:3 (la cuarta) podían explicar tanto 
+la estructura de las figuras y proporciones visuales como la de la música, “El entusiasmo 
+ante el descubrimiento pitagórico de la base numérica de los intervalos musicales (los 
+intervalos básicos de la música griega podían representarse mediante razones 1/2, 3/2 y 
+4/3) encendió un chispazo de inspirada intuición hacia una fórmula de aplicación 
+universal: “Si los números son la clave de los sonidos musicales, ¿no serán también la 
+clave de toda la naturaleza?” (González, 2007, p. 85). Esa intuición se vinculaba con la 
+tetractis, figura triangular formada por la suma de los primeros cuatro números (1, 2, 3 y 
+4), considerada por los pitagóricos un símbolo sagrado del orden universal, ya que en ella 
+se condensaban las proporciones fundamentales que explican tanto la geometría como la 
+música.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+Ahora bien, el término armonía geométrica pitagórica no aparece literalmente en los 
+escritos antiguos; aquí se lo emplea como una categoría integradora y contemporánea. La 
+intención no es atribuir a los pitagóricos una idea que no usaron con esas palabras, sino 
+rescatar su manera de entender las matemáticas como base común del orden cósmico, 
+geométrico y sonoro. De hecho, investigaciones actuales muestran que la geometría 
+puede servir para visualizar escalas y estructuras musicales. Se ha comprobado también 
+que acordes, intervalos y escalas pueden representarse como figuras geométricas, lo que 
+abre nuevas formas de comprensión visual y conceptual de la música, desde 
+construcciones basadas en triángulos hasta modelos geométricos aplicados a escalas en 
+contextos modernos. 
+Así entendida, la noción de armonía geométrica pitagórica actúa como un puente que 
+conecta la tradición con lo contemporáneo. Nos permite comprender cómo los principios 
+musicales ofrecen un marco pedagógico y analítico útil para acercarse al estudio de la 
+geometría y sus proporciones. A la vez, la música se convierte en una experiencia 
+sensorial que revela la belleza de las formas y de las relaciones numéricas, continuando 
+la intuición pitagórica de que “el número es el principio de todas las cosas”. “” Los 
+números son el principio, la sustancia y la causa de todas las cosas” … “para los 
+pitagóricos todo era una encarnación del número. Cuando decían que todos los objetos 
+estaban compuestos de números, que los números son la esencia del universo, o que el 
+número es el principio elemental…” (González, 2007, p. 85). “Si en el número está la 
+clave del tono musical, en el residirá también la clave de toda la naturaleza: “El número 
+es la esencia de todas las cosas”” (González, 2007, p. 134). 
+El origen de esta relación se remonta a Pitágoras de Samos (c. 500 a.C.), considerado 
+fundador no solo de la primera escuela de matemáticas deductivas, sino también de una 
+escuela de música teórica. Según la tradición, él y sus discípulos descubrieron la 
+correspondencia entre intervalos musicales y proporciones numéricas, estableciendo así 
+la primera clasificación sistemática de las consonancias, base de toda teoría armónica 
+posterior. El relato más famoso cuenta que Pitágoras experimentó primero en una 
+herrería, escuchando cómo los martillos de distinto peso producían sonidos 
+proporcionales, y después trasladó esas observaciones al monocordio. Allí descubrió que 
+al dividir la cuerda en fracciones simples aparecían intervalos concretos: la octava al 
+reducirla a la mitad, la quinta en proporción de tres cuartos, la cuarta en dos tercios. 
+
+
+--- PAGE 13 ---
+(González, 2007). Ese hallazgo no solo explicó el origen de las escalas naturales, sino que 
+permitió concebir la octava como un ciclo cerrado donde las notas se repiten siguiendo 
+proporciones matemáticas. 
+Para los pitagóricos, la música no era simplemente un arte sonoro. Era el reflejo mismo 
+de la estructura matemática del universo. Aristóteles, al transmitir la doctrina pitagórica, 
+resumió esta idea en la célebre frase “todo es número”, un principio que abarcaba 
+naturaleza, música y geometría. Esta visión se consolidó en el Quadrivium, conjunto de 
+cuatro disciplinas matemáticas, aritmética, música, geometría y astronomía que durante 
+siglos constituyó la base de las artes liberales. En ese marco, la música no se estudiaba de 
+manera aislada, sino como una disciplina matemática estrechamente ligada a la geometría 
+y a la astronomía, a las que el pitagórico Arquitas llamó “ciencias hermanas”. 
+La conexión entre música y geometría no fue solo un juego de ideas abstractas. También 
+tuvo aplicaciones muy concretas y hasta visuales. Los pitagóricos, por ejemplo, se 
+interesaron en cómo dividir intervalos mediante proporciones geométricas y en 
+instrumentos de medición como el helicón descrito por Ptolomeo, que permitía “ver” las 
+consonancias. La idea era clara: si los sonidos se regían por números, entonces podían 
+representarse con líneas, ángulos y figuras. 
+Con el paso del tiempo, esa visión se transformó en propuestas prácticas. Robert Fludd, 
+en su Templo de la música (1618), pintó a Pitágoras en la herrería rodeado de números, 
+un guiño a la unión entre proporción matemática y armonía sonora. Más adelante, en el 
+siglo XVIII, Daniel Strähle diseñó un método geométrico para calcular la ubicación 
+exacta de los trastes en guitarras y laúdes, lo que ayudó a fijar la escala temperada. Incluso 
+en la filosofía natural y la astronomía, pensadores como Johannes Kepler llevaron esta 
+relación al cosmos, imaginando que los polígonos regulares podían explicar tanto la 
+música como el orden del universo. 
+ 
+Hoy la idea ha renacido en otro terreno: el de la representación gráfica. Investigaciones 
+recientes muestran que intervalos, acordes y escalas se pueden dibujar en diagramas 
+circulares. Si se colocan las doce notas de la escala temperada en un círculo, como si 
+fueran las horas de un reloj, basta con trazar líneas entre ellas para obtener polígonos. 
+
+
+--- PAGE 14 ---
+Una triada mayor o menor se convierte en un triángulo; los acordes más complejos, en 
+figuras de más lados. 
+ 
+ 
+Figura 1: Sistema polar en el cual consiste 
+tomar un circulo y dividirlo en 12 semitonos 
+de la escala temperada occidental como si 
+fuera un reloj. Este círculo es la proyección 
+horizontal de un espiral ascendente sobre el 
+cual se colocarán los intervalos simples 
+ 
+ 
+ 
+ 
+ 
+Figura 2: La información de esta imagen esta 
+respecto a Do, sin embargo, es un modelo 
+transportable a cualquier tonalidad. 
+ 
+Estos polígonos revelan simetrías escondidas. La triada aumentada, por ejemplo, aparece 
+como un triángulo equilátero perfecto, con sus lados idénticos y tres ejes de simetría. Las 
+escalas, por su parte, generan figuras que pueden ser regulares o irregulares: la diatónica 
+se dibuja como un heptágono, mientras que la cromática forma un dodecágono completo. 
+Así, la música deja de ser únicamente sonido y se muestra también como un entramado 
+de formas que responden a proporciones matemáticas. 
+Con la llegada de la escala temperada en la modernidad, las viejas proporciones 
+pitagóricas, esas consonancias exactas que se calculaban como fracciones perfectas, 
+
+
+--- PAGE 15 ---
+fueron reemplazadas por la división igual de la octava. El cambio trajo ventajas prácticas: 
+facilitó la modulación entre tonalidades y simplificó la construcción de instrumentos. 
+Pero también significó dejar atrás la pureza matemática que tanto valoraba la tradición 
+antigua. Aun así, más que un quiebre definitivo, puede leerse como una transformación: 
+la música dejó de apoyarse en proporciones exactas, aunque mantuvo vivo el principio de 
+que los números y la geometría revelan su estructura profunda. 
+Hablar hoy de armonía geométrica pitagórica no significa inventar un término 
+inexistente en los propios pitagóricos, sino recuperar su intuición: que la música, la 
+geometría y el cosmos comparten un mismo tejido numérico. Esta idea, reinterpretada, 
+dialoga con las investigaciones actuales, donde escalas, acordes e intervalos pueden 
+representarse como polígonos y figuras geométricas. Así, la música aparece no solo como 
+sonido, sino también como forma, proporción y estructura visible. 
+En el fondo, la noción de armonía geométrica pitagórica se convierte en un puente entre 
+lo antiguo y lo moderno, entre razón y sensibilidad, entre ciencia y arte. La famosa 
+máxima pitagórica, “el número es el principio de todas las cosas”, sigue inspirando más 
+de dos milenios después, nuevas maneras de pensar la relación entre orden, belleza y 
+conocimiento. 
+ 
+2.2. La matemática en niños de 9 a 12 años 
+El aprendizaje matemático en niños de entre 9 y 12 años marca una etapa de transición 
+muy importante. En estos años, los estudiantes comienzan a pasar del pensamiento 
+concreto, basado en la observación directa y la manipulación de objetos, hacia una 
+comprensión más abstracta y lógica de los conceptos matemáticos. Ya no se trata solo de 
+“hacer cuentas”, sino de entender el porqué de los procedimientos, reconocer patrones y 
+establecer relaciones entre ideas. Esta evolución implica una reorganización profunda de 
+su manera de pensar y de cómo se relacionan con el conocimiento matemático. 
+Desde la teoría de los niveles de pensamiento geométrico desarrollada por Pierre y Dina 
+Van Hiele (1986), se comprende que el aprendizaje de la geometría ocurre de forma 
+gradual, pasando por distintos niveles de razonamiento. Cada uno de estos niveles 
+
+
+--- PAGE 16 ---
+representa una manera diferente de entender, clasificar y relacionarse con las figuras 
+geométricas. El estudiante avanza desde una percepción visual y concreta, centrada en la 
+apariencia de las formas, hasta llegar a una comprensión más lógica y abstracta del 
+espacio. 
+En el caso de los niños de entre 9 y 12 años, la mayoría se encuentra en un punto de 
+transición entre los niveles de análisis y abstracción, una etapa clave para el desarrollo 
+del pensamiento geométrico. En el nivel de análisis, los estudiantes reconocen figuras a 
+partir de sus propiedades (por ejemplo, los lados o los ángulos), pero tienden a 
+considerarlas por separado, sin establecer relaciones entre ellas. En cambio, en el nivel 
+de abstracción, comienzan a conectar esas propiedades, a formular definiciones más 
+precisas y a comprender relaciones conceptuales más amplias, como que un cuadrado 
+también es un rectángulo, o que las características de los triángulos pueden derivarse unas 
+de otras. 
+Van Hiele destaca que este avance no se da de manera automática. Requiere una 
+enseñanza cuidadosamente planificada, basada en la exploración, la reflexión y la 
+comunicación. Por eso, el papel del docente resulta fundamental: debe guiar a los 
+estudiantes a través de experiencias significativas que estimulen el razonamiento 
+geométrico y favorezcan una comprensión más profunda de los conceptos espaciales. 
+De acuerdo con este modelo, los niveles de razonamiento geométrico propuestos por Van 
+Hiele son los siguientes: 
+➢ Nivel 1: Visualización o Reconocimiento  
+• Características del razonamiento: Los estudiantes reconocen las figuras por 
+su apariencia, basándose en consideraciones visuales de los objetos como un 
+todo. (Barrera, Reyes, 2015, p.5).  
+• Comprensión de las propiedades: Las propiedades de las figuras no juegan 
+un papel explícito en el reconocimiento. Por ejemplo, un estudiante identifica 
+un rectángulo porque "parece una puerta" o la "tapa de una caja"(Van 
+Hiele,1999), pero no porque tenga cuatro ángulos rectos. (Barrera, Reyes, 
+2015, p.5).  
+• Objeto de pensamiento: Las figuras geométricas. 
+ 
+
+
+--- PAGE 17 ---
+➢ Nivel 2: Análisis  
+• Características del razonamiento: Los estudiantes “identifican una figura 
+mediante sus propiedades”, y el razonamiento se lleva a cabo a través de la 
+“identificación de los componentes y atributos” de las figuras. (Barrera, 
+Reyes, 2015, p.6). 
+• Comprensión de las propiedades: Los estudiantes son capaces de descubrir 
+empíricamente propiedades de una clase de figuras, aunque las consideran 
+independientes unas de otras, sin establecer relaciones lógicas entre ellas. Por 
+ejemplo, pueden determinar que los ángulos opuestos de un paralelogramo 
+son iguales, pero sin ser capaces de justificar por qué. (Barrera, Reyes, 2015, 
+p.6). 
+• Clasificación: En este nivel, los estudiantes solo pueden llevar a cabo 
+clasificaciones exclusivas. Por ejemplo, pueden ser capaces de determinar que 
+los rectángulos no son cuadrados, pero no necesariamente identificarán un 
+cuadrado como un rectángulo o un rombo, o un rectángulo como un 
+paralelogramo. (Barrera, Reyes, 2015, p.7). 
+ 
+➢ Nivel 3: Ordenación, Clasificación o Abstracción  
+• Características del razonamiento: Los estudiantes interrelacionan 
+lógicamente propiedades de los conceptos, construyendo o siguiendo 
+argumentos informales. (Barrera, Reyes, 2015, p.7). 
+• Comprensión de las propiedades: Son capaces de formular definiciones 
+abstractas, señalando las condiciones necesarias y suficientes, y 
+estableciendo relaciones entre propiedades. Por ejemplo, pueden determinar 
+que un triángulo con tres lados iguales también tiene tres ángulos iguales. Son 
+capaces de formular justificaciones informales (como justificar por qué un 
+cuadrado es un rectángulo o por qué la suma de los ángulos de cualquier 
+triángulo es 180°). (Barrera, Reyes, 2015, p.7). 
+• Limitación: El significado intrínseco de la deducción (el papel de axiomas, 
+definiciones y teoremas) no se comprende completamente. (Barrera, Reyes, 
+2015, p.7). 
+ 
+➢ Nivel 4: Deducción Formal  
+
+
+--- PAGE 18 ---
+• Características del razonamiento: Los estudiantes “prueban teoremas 
+deductivamente y establecen interrelaciones entre redes de teoremas”. 
+(Barrera, Reyes, 2015, p.7). 
+• Comprensión: Entienden la necesidad de justificar deductivamente 
+resultados o proposiciones, con base en un sistema axiomático. El estudiante 
+es capaz de demostrar un resultado de diferentes formas. (Barrera, Reyes, 
+2015, p.7). 
+• Objeto de pensamiento: Las relaciones ordenadas, que los estudiantes 
+operan. (Barrera, Reyes, 2015, p.8). 
+ 
+➢ Nivel 5: Rigor  
+• Características del razonamiento: Los estudiantes establecen teoremas en 
+diferentes sistemas axiomáticos y pueden analizar o comparar esos sistemas. 
+El razonamiento geométrico en este nivel es bastante abstracto y no 
+necesariamente involucra el uso de modelos pictóricos o concretos. (Barrera, 
+Reyes, 2015, p.8).  
+• Comprensión: Se conoce la existencia de diferentes sistemas axiomáticos y 
+los postulados o axiomas son objeto de análisis y escrutinio. (Barrera, Reyes, 
+2015, p.8).  
+• Objeto de pensamiento: Los fundamentos de las relaciones de ordenamiento. 
+(Barrera, Reyes, 2015, p.8). 
+ 
+Por otro lado, la revisión de Berciano, Uskola y Zamalloa (2022) ofrece una mirada más 
+actual sobre el desarrollo de la competencia matemática dentro del enfoque STEAM 
+(Ciencia, Tecnología, Ingeniería, Arte y Matemática). Su análisis muestra que la mayoría 
+de los proyectos de este tipo se aplican en los grados superiores de primaria (de 10 a 12 
+años) (Berciano, Uskola, Zammalloa, 2024, p.1). Sin embargo, también advierten que la 
+evaluación de las habilidades matemáticas sigue siendo limitada en comparación con las 
+otras áreas STEAM. Solo algunos estudios se centran realmente en el desarrollo del 
+pensamiento lógico, la resolución de problemas o el razonamiento espacial (Berciano, 
+Uskola, Zammalloa, 2024, p.1). Los proyectos más comunes trabajan temas como 
+geometría, estadística, cálculo o proporcionalidad, a menudo integrando herramientas 
+tecnológicas y lenguajes de programación como Scratch o Bee-bot. Según los autores, 
+
+
+--- PAGE 19 ---
+este tipo de experiencias fortalece tanto el pensamiento computacional como la 
+comprensión geométrica, aunque aún hace falta incorporar evaluaciones más completas 
+que midan la competencia matemática de forma integral. (Berciano, Uskola, Zammalloa, 
+2024, p.14).  
+En un plano más psicológico, la teoría de los campos conceptuales de Gérard Vergnaud 
+(1990) ayuda a entender cómo los niños construyen y organizan su conocimiento 
+matemático. Para Vergnaud, los conceptos no se aprenden de manera aislada ni por simple 
+memorización; se adquieren a partir de situaciones reales donde los niños los aplican.  
+“Un concepto no puede ser reducido a su definición, al menos si se está interesado en 
+su aprendizaje y enseñanza. A través de las situaciones y de los problemas que se 
+pretenden resolver es como un concepto adquiere sentido para el niño. Este proceso de 
+elaboración pragmática es esencial para la psicología y la didáctica, como lo es, por 
+otra parte, esencial para la historia de las ciencias.” (Vergnaud, 1990, p.1). 
+ El conocimiento, por tanto, se manifiesta en la acción y se organiza en esquemas que 
+guían la forma en que los estudiantes enfrentan distintos problemas. En el caso de los 
+niños de esta edad, la comprensión de las estructuras aditivas y multiplicativas es esencial, 
+ya que supone internalizar relaciones proporcionales y funciones lineales, conceptos que 
+presentan una gran complejidad (Vergnaud, 1990, p.13). A menudo, los estudiantes tienen 
+dificultades para elegir las operaciones adecuadas o interpretar las relaciones entre 
+cantidades, lo cual refleja que sus esquemas están todavía en desarrollo. Analizar estos 
+esquemas permite al docente identificar los errores y diseñar estrategias de enseñanza que 
+fortalezcan el aprendizaje significativo. 
+Una situación didáctica es en primer lugar una puesta en escena interesante y rica. Las 
+relaciones elementales distinguidas aquí y las clases de problemas que permiten 
+engendrar no presentan, tal cual, sino un interés didáctico moderado, justamente 
+porque son demasiado elementales. Son en primer lugar instrumentos para el análisis 
+de las situaciones y para el análisis de las dificultades conceptuales encontradas por 
+los alumnos. Toda situación compleja es una combinación de relaciones elementales, y 
+no se puede soslayar el análisis de las tareas cognitivas que estas relaciones permiten 
+generar; pero la organización de una situación didáctica en un proyecto colectivo de 
+investigación para la clase supone la consideración a la vez de las funciones 
+
+
+--- PAGE 20 ---
+epistemológicas de un concepto, de la significación social de los dominios de 
+experiencia a los cuales hace referencia, los juegos de papeles (roles) entre los actores 
+de la situación didáctica, resortes del juego, del contrato y de la transposición. La tesis 
+subyacente a la teoría de los campos conceptuales, sin embargo, es que una buena 
+puesta en escena didáctica se apoya necesariamente sobre el conocimiento de la 
+dificultad relativa de las tareas cognitivas, de los obstáculos que habitualmente se 
+encuentran, del repertorio de procedimientos disponibles, y de las representaciones 
+posibles. La psicología cognitiva es esencial. (Vergnaud, 1990, p.14). 
+En conjunto, las perspectivas de Van Hiele, Berciano y Vergnaud ayudan a entender que 
+la enseñanza de la matemática entre los 9 y 12 años no puede separarse del desarrollo 
+cognitivo y emocional del niño. Desde la geometría hasta los proyectos STEAM, esta 
+etapa se caracteriza por la transición hacia un pensamiento más abstracto y reflexivo. En 
+ese sentido, la integración de arte y música, por ejemplo, mediante la armonía geométrica 
+pitagórica, puede convertirse en un recurso didáctico valioso que une la razón con la 
+creatividad. Así, la matemática deja de ser vista como un conjunto rígido de reglas y se 
+transforma en una experiencia estética, significativa y profundamente humana. 
+2.3. Propuesta de la pedagogía experiencial de Jhon Dewey 
+A lo largo de la historia, muchos pedagogos se han hecho la misma pregunta: ¿cómo 
+aprenden realmente los niños? Algunas corrientes se han quedado con la memorización 
+o con la típica clase donde el docente habla y el alumno escucha. Otras, en cambio, han 
+intentado darle la vuelta a la experiencia escolar para que sea algo más vivo, más 
+significativo. Entre estas últimas aparece John Dewey, filósofo, psicólogo y educador 
+estadounidense, quien defendía que el aprendizaje nace cuando el niño interactúa de 
+manera directa con su entorno, no cuando simplemente recibe información sin 
+cuestionarla (Ord, 2012, p. 63). 
+Para Dewey, la escuela debía ser un espacio donde los estudiantes pensaran, probaran 
+cosas, exploraran y construyeran significado a partir de situaciones reales que les 
+despertaran curiosidad (Ord, 2012, p. 64). No bastaba con preparar “para la vida”; la 
+escuela, decía, tenía que ser vida en sí misma: un lugar donde se vive, se interpreta lo que 
+se vive y, de alguna manera, también se transforma. De ahí surge la pedagogía 
+experiencial, un enfoque donde la experiencia se vuelve el punto de partida y también el 
+
+
+--- PAGE 21 ---
+de llegada (Ord, 2012, p. 55). Esta idea ha influido muchísimo en metodologías activas 
+actuales, en la educación artística y musical, e incluso en proyectos de integración social 
+basados en la participación (Ord, 2012, p. 57). 
+Su pensamiento descansa en el pragmatismo, o instrumentalismo, (Gilliam Writers 
+Group, s.f. Jul 23), una corriente que considera que las ideas solo valen cuando se 
+conectan con experiencias concretas y ayudan a mejorarlas (Ord, 2012, p. 62). Desde ahí, 
+aprender significa reorganizar continuamente la experiencia: comprender mejor el mundo 
+y ganar herramientas para afrontar situaciones nuevas. Su famosa frase “la educación no 
+es preparación para la vida; la educación es la vida misma” (Sprouts Español, 2023, 
+3m38s) resume bastante bien toda la propuesta. 
+Sobre este fundamento, Dewey desarrolló una teoría amplia sobre qué es una experiencia, 
+cuál es el papel del estudiante, cómo se relacionan la acción y el pensamiento y qué 
+condiciones permiten que una experiencia sea realmente educativa (Sprouts Español, 
+2023). 
+1. Fundamentos de la pedagogía experiencial 
+1.1. Educación como reconstrucción de la experiencia 
+Para Dewey, educarse es básicamente un proceso vivo, casi orgánico, donde cada persona 
+va reorganizando lo que ha vivido y le da un sentido nuevo mientras avanza (Ord, 2012, 
+p. 62). Nada ocurre aislado, toda experiencia se engancha con la anterior, y a su vez 
+prepara el terreno de lo que vendrá después (Ord, 2012, p. 62).  Esto rompe con la idea, 
+tan común todavía, de que aprender es solo recibir información. Más bien es un moverse 
+constante entre lo que ya pasó, lo que uno piensa sobre ello y lo que se decide hacer luego. 
+Su famosa frase, “no es preparación para la vida; la educación es la vida misma” (Sprouts 
+Español, 2023, 3m38s), condensa este enfoque de manera directa. Educar no es transmitir 
+paquetes de contenido, sino acompañar la manera en que las personas dan significado a 
+lo que viven, cómo entienden el mundo y cómo actúan con mayor sensibilidad dentro de 
+él. 
+Todo esto se apoya en el pragmatismo o instrumentalismo (Ord, 2012, p. 62). Desde esta 
+mirada, una idea solo vale si sirve para orientar la acción y mejorar la experiencia 
+
+
+--- PAGE 22 ---
+concreta. No se trata de verdades eternas, sino de herramientas que ayudan a interpretar 
+lo que pasa y a transformar el entorno. Las teorías, para Dewey, se justifican cuando 
+“funcionan”, cuando amplían la experiencia y fortalecen la capacidad de actuar. 
+Por eso, la educación no puede reducirse a transmitir conceptos. Debe crear oportunidades 
+reales para probar, equivocarse, repensar, ajustar y volver a intentarlo. Es en ese ir y venir 
+entre la acción y la reflexión donde se forma una comprensión más profunda, de esas que 
+permanecen porque nacen de la experiencia misma. 
+2. Los criterios de la experiencia educativa en Dewey 
+Dewey no entiende el aprendizaje como un proceso rígido ni lineal, mucho menos como 
+un ciclo cerrado, tipo Kolb (Ord, 2012, p. 62). En vez de eso, propone dos criterios 
+esenciales para reconocer si una experiencia es realmente educativa: interacción y 
+continuidad. Ambos funcionan juntos y forman el corazón de su idea del aprendizaje 
+como un proceso vivo, situado y en constante transformación. (Dewey, 1938, p. 93) 
+(Dewey, 1938, p.13). 
+2.1. Principio de Interacción 
+Para Dewey, toda experiencia surge del encuentro activo entre el individuo y el ambiente; 
+a esta relación la llama transacción (Ord, 2012, p. 60). Y en ella aparecen dos momentos 
+que solo tienen sentido cuando se mantienen unidos. 
+a) Trying (actuar, intentar) 
+Es la parte activa. La persona interviene en lo que la rodea: prueba, manipula, se 
+arriesga, formula hipótesis, explora. Es básicamente “poner a prueba al mundo” para ver 
+cómo responde (Ord, 2012, p. 60). 
+b) Undergoing (recibir las consecuencias) 
+Tras la acción viene la devolución del entorno. A veces aparece un resultado claro; 
+otras, una resistencia, una sorpresa o incluso frustración. Y es ahí, en ese retorno, donde 
+ocurre la reorganización interna, se ajustan expectativas, se reordenan ideas, se descubre 
+algo inesperado (Ord, 2012, p. 60). 
+
+
+--- PAGE 23 ---
+La experiencia, entonces, es acción + consecuencia. El aprendizaje solo aparece cuando 
+ambos momentos se conectan de manera significativa. 
+Ejemplo: 
+Si un grupo de niños limpia un espacio lleno de basura (trying), el lugar cambia de 
+inmediato. Pero también pasa algo por dentro: orgullo, preguntas nuevas, quizá un primer 
+sentido de responsabilidad ambiental (undergoing). Esa doble transformación, afuera y 
+adentro, es lo que convierte el evento en una experiencia educativa (Ord, 2012, p. 60). 
+2.2. Principio de Continuidad 
+El segundo criterio sostiene que toda experiencia influye en las siguientes. Dewey lo 
+llama continuidad de la experiencia (Dewey, 1938, p.77). 
+Una experiencia es educativa cuando impulsa el crecimiento, amplía la comprensión y 
+mejora la capacidad de actuar en situaciones futuras (Ord, 2012, p. 62). 
+Se vuelve anti-educativa cuando frena ese desarrollo, estrecha la mirada o genera 
+actitudes que cierran la puerta a nuevos aprendizajes. (Dewey, 1938, p.80, 81). 
+Gracias a la continuidad, la educación deja de ser una secuencia de actividades aisladas. 
+Se convierte en un proceso evolutivo, donde cada vivencia, por pequeña que sea, moldea 
+la forma en que las personas enfrentan el mundo. 
+ 
+3. 
+Otros conceptos esenciales en la pedagogía de Dewey 
+Los principios de interacción y continuidad son centrales, pero no lo son todo. Dewey 
+añade elementos que permiten entender la experiencia como algo profundamente ligado 
+al entorno, a la motivación y a la construcción de sentido (Ord, 2012, p. 62). 
+3.1. Enfoque centrado en el niño (el “giro copernicano”) 
+Dewey propone un giro enorme: que el niño sea el centro de la experiencia educativa, no 
+el docente. Esto implica reconocer que los intereses, impulsos y curiosidades del 
+estudiante son el motor del aprendizaje. Los intereses no son simples gustos; son fuerzas 
+que sostienen la atención y guían la indagación (Ord, 2012, p. 65). 
+
+
+--- PAGE 24 ---
+El docente entonces cambia de rol, más que transmitir, observa, acompaña y diseña 
+ambientes donde sea posible actuar y explorar de forma significativa. La escuela deja de 
+ser un espacio rígido y se convierte en un escenario vivo, conectado con lo que al niño le 
+importa de verdad. 
+3.2. La dialéctica entre pensamiento y acción 
+Para Dewey, pensar y actuar no van separados. Se necesitan mutuamente. El aprendizaje 
+ocurre en esa tensión productiva entre hacer y reflexionar sobre lo que se hace. 
+De aquí surge la idea de “reflexión en la acción”, desarrollada luego por Donald Schön. 
+La reflexión no aparece solo al final; surge también mientras se actúa, ajustando 
+decisiones o cambiando estrategias sobre la marcha (Ord, 2012, p. 66). 
+El pensamiento reflexivo, para Dewey, puede incluir cinco momentos, aunque no siempre 
+en orden perfecto (Ord, 2012, p. 65): 
+1. Encontrar una dificultad. 
+2. Definir el problema. 
+3. Sugerencia de una posible solución. 
+4. Anticipar consecuencias. 
+5. Probar la hipótesis en la experiencia. 
+En la práctica es un proceso flexible, sensible a las particularidades de cada situación. 
+4. Implicaciones para la práctica educativa 
+Su teoría no se queda en lo abstracto. Tiene implicaciones claras para la escuela, para los 
+docentes y para la vida en el aula. 
+4.1. El docente como diseñador de experiencias 
+El docente organiza ambientes ricos en posibilidades, donde los estudiantes puedan 
+indagar, colaborar, preguntarse cosas y experimentar. Requiere conocer de verdad a su 
+grupo y anticipar qué actividades pueden abrir caminos de comprensión (Gilliam Writers 
+Group, s.f. Jul 23). 
+
+
+--- PAGE 25 ---
+4.2. La escuela como comunidad democrática 
+La escuela debe funcionar como un espacio donde se vive la democracia: diálogo, 
+participación, cooperación. No es solo preparación para la vida futura; es vida presente 
+en comunidad (Sprouts Español, 2023, 3m13s). 
+4.3. La importancia de la interdisciplinariedad 
+El conocimiento real no viene en cajitas separadas. Por eso la escuela debería evitar la 
+fragmentación excesiva. Integrar saberes permite abordar problemas complejos de forma 
+más coherente y significativa (Garcia, 2020, p. 312). 
+4.4. Prácticas actuales inspiradas en Dewey 
+• Aprendizaje basado en proyectos. 
+• Simulaciones y juegos de rol. 
+• Producciones reales y colaborativas. 
+• Diarios de reflexión. 
+• Actividades vinculadas al entorno. 
+Todas buscan articular acción, experiencia y pensamiento (Gilliam Writers Group, s.f. Jul 
+23). 
+5. Una analogía para entender su visión 
+Pensar en el fútbol ayuda. Cuando un jugador chuta el balón (trying), el balón responde 
+(undergoing). Luego el jugador interpreta lo que pasó y ajusta su técnica. La experiencia 
+es ese movimiento continuo entre acción, consecuencia y reconstrucción del pensamiento. 
+La pedagogía experiencial de Dewey nos recuerda que aprender es un proceso 
+profundamente humano, siempre en transformación. Al poner la experiencia en el centro, 
+critica los modelos basados en la memorización mecánica y apuesta por un aprendizaje 
+donde los estudiantes participan en situaciones reales que les permiten pensar, sentir y 
+reconstruir lo vivido. Sus ideas siguen vivas en prácticas educativas actuales, incluidos 
+talleres artísticos o espacios como el laboratorio CREA, donde los niños exploran, 
+experimentan y encuentran sentido a través del arte y la participación. 
+
+
+--- PAGE 26 ---
+3. Marco Metodológico 
+3.1. Enfoque Investigativo 
+El enfoque cualitativo se entiende como una metodología flexible e interpretativa que 
+reúne los distintos acercamientos no cuantitativos empleados para comprender los 
+fenómenos sociales y humanos dentro de su contexto natural (Izcara,2014, p. 11). Su 
+propósito principal no es explicar ni predecir los hechos mediante leyes universales, sino 
+comprenderlos a partir de los significados y experiencias de las personas que los viven.  
+“El método cualitativo es un modo específico de análisis del mundo empírico, que 
+busca la comprensión de los fenómenos sociales desde el punto de vista de los 
+participantes, mediante una penetración en la visión que los propios actores sociales 
+tienen de la realidad social (Alonso, 2003, p. 50)” (Izcara,2014, p.231). 
+Desde esta mirada, el conocimiento se construye con base en la observación y la 
+interpretación, siguiendo una lógica inductiva que valora la subjetividad como parte 
+esencial para captar la complejidad y la riqueza del mundo social. En este tipo de 
+investigación, más que medir, se busca interpretar; más que generalizar, se pretende 
+profundizar; y, en lugar de establecer relaciones causales, se procura descubrir 
+significados. 
+El presente trabajo adopta un enfoque cualitativo porque busca comprender de qué 
+manera la armonía geométrica pitagórica puede convertirse en un recurso pedagógico y 
+creativo para fortalecer el aprendizaje de la geometría en niños de entre 9 y 12 años, 
+dentro del Laboratorio STEAM CREA de la Universidad de los Andes.  
+Más que medir resultados o establecer relaciones estadísticas, la investigación se centra 
+en explorar las experiencias, percepciones y procesos creativos que surgen al integrar la 
+música con la geometría (Izcara,2014, p.205-206). Este tipo de mirada permite captar las 
+emociones, los significados y las vivencias de los participantes, interpretando cómo la 
+música puede transformar la forma en que los niños se relacionan con el conocimiento 
+matemático desde una perspectiva artística y sensorial. (Bautista, 2011, p.20). 
+Del mismo modo, la metodología cualitativa resulta adecuada por la naturaleza 
+interdisciplinar y experimental del Laboratorio CREA, donde el aprendizaje se construye 
+
+
+--- PAGE 27 ---
+a partir de la observación, la práctica y la interpretación de experiencias inmersivas. La 
+flexibilidad propia de este enfoque permite adaptar las estrategias según el desarrollo del 
+proceso, valorando la subjetividad, la interacción y la vivencia estética como fuentes 
+válidas de conocimiento.  
+En coherencia con el paradigma interpretativo, este estudio no busca comprobar hipótesis, 
+sino generar comprensión y construir sentido alrededor de cómo la unión entre arte, 
+ciencia y tecnología puede potenciar el aprendizaje en un entorno STEAM. Desde esta 
+perspectiva constructiva, la educación se entiende no solo como transmisión de saberes, 
+sino también como una experiencia cognitiva, emocional y profundamente creativa. 
+“(Anadón, 2008, vol. XXVI)” (Bautista, 2011, p.20). 
+3.2. Tipo de investigación 
+Investigación Acción Educativa  
+El presente trabajo se enmarca dentro del enfoque de la investigación-acción educativa 
+(IAE), cuyo propósito central es comprender y transformar las prácticas pedagógicas 
+mediante la reflexión y la acción conjunta de los participantes. Este tipo de investigación 
+parte del principio de que el conocimiento pedagógico no se genera de manera externa al 
+contexto, sino que surge de la práctica reflexiva del docente en su entorno educativo. 
+(Restrepo, 2004, p.47). Como plantea Restrepo Gómez (2004) en su artículo “La 
+investigación-acción educativa y la construcción de saber pedagógico”, publicado en la 
+revista Educación y Educadores de la Universidad de la Sabana, el maestro construye su 
+saber pedagógico a partir de la reflexión en la acción cotidiana, entendida como un 
+proceso continuo de análisis, crítica y transformación de su quehacer docente.  
+Desde esta perspectiva, la investigación-acción educativa se concibe como una 
+metodología que permite al docente investigar su propia práctica mientras enseña, 
+sistematizando los aprendizajes que emergen de la experiencia (Restrepo, 2004, p.47). 
+Así, el aula se convierte en un espacio de experimentación y creación pedagógica, donde 
+la teoría y la práctica dialogan de manera constante. Más que describir una realidad 
+educativa, este enfoque busca transformarla intencionalmente, fortaleciendo la autonomía 
+profesional del maestro y fomentando la innovación en los procesos de enseñanza y 
+aprendizaje. 
+
+
+--- PAGE 28 ---
+“Los distintos grupos de maestros investigadores han permitido observar el contraste 
+que la investigación-acción produce entre la autonomía profesional y la rutina y 
+sumisión que la práctica cotidiana no reflexionada ocasiona en los docentes. La 
+práctica no reflexiva, en efecto, aprisiona al maestro en una rutina mecánica, con 
+mínima variación y creatividad, mientras que cuando aquella es sometida a reflexión, 
+autocrítica y reconstrucción validada, el educador se libera de la rutina, y en su 
+práctica florecen la innovación, el seguimiento permanente de los efectos de esta última 
+y la sistematización de la práctica como un saber práctico, efectivo y sustentado. En las 
+diez cohortes se han dado casos de innovaciones en enseñanza de las matemáticas, de 
+la música, del teatro, de la filosofía, de la química, y hasta en modelos de 
+administración de centros educativos y en la preservación del espíritu científico en 
+niños de preescolar, para citar algunos casos. En todos ellos se ha hecho evidente la 
+construcción de saber pedagógico.” (Restrepo, 2004, p.53-54). 
+En coherencia con este planteamiento, el presente trabajo adopta la investigación-acción 
+educativa no solo como un método de observación, sino como una estrategia de cambio 
+y mejora de la práctica pedagógica. Su propósito es generar transformaciones 
+significativas a través de la integración de la música, la geometría y el arte en un entorno 
+STEAM. A partir de la reflexión en la acción, el proyecto busca comprender cómo la 
+música puede funcionar como un recurso creativo que potencie el aprendizaje de la 
+geometría en niños de 9 a 12 años, promoviendo experiencias más sensibles, estéticas y 
+significativas. 
+Asimismo, la IAE ofrece la flexibilidad necesaria para adaptar el proceso investigativo a 
+las respuestas y necesidades de los participantes. Esta característica resulta esencial, ya 
+que el estudio implica un proceso de creación pedagógica en el que se diseñan, 
+implementan y evalúan estrategias interdisciplinarias. En este contexto, la investigación 
+se convierte en una herramienta de desarrollo profesional que impulsa la reflexión, la 
+experimentación y la construcción colectiva del conocimiento. 
+De este modo, la investigación-acción educativa se ajusta plenamente al propósito de este 
+trabajo, pues permite analizar la práctica docente desde dentro, intervenir sobre ella y 
+transformarla de manera consciente. De este modo, el estudio no solo aporta a la 
+comprensión del fenómeno educativo, sino que también impulsa una práctica pedagógica 
+más crítica, innovadora y comprometida con la formación integral de los estudiantes. 
+
+
+--- PAGE 29 ---
+3.3. Población  
+La población seleccionada para este estudio está conformada por niños y niñas de entre 9 
+y 12 años que participan en los talleres del Laboratorio STEAM de la Universidad de los 
+Andes. Se trata de estudiantes provenientes de distintos colegios, quienes asisten al 
+laboratorio en jornadas únicas, mañana o tarde, según la programación semanal. Cada 
+sesión recibe un grupo diferente, de modo que los participantes cambian constantemente 
+y no se repiten entre un taller y otro. Esta rotación continua crea un contexto particular: 
+permite observar procesos cognitivos y creativos sin la influencia de experiencias 
+prolongadas o de secuencias de trabajo repetitivas. 
+El Laboratorio STEAM ofrece un entorno interdisciplinar en el que convergen ciencia, 
+tecnología, ingeniería, arte y matemáticas. Dentro de este espacio, la música se aborda 
+tanto como fenómeno estético como objeto de exploración matemática. A través de 
+actividades breves, los niños establecen conexiones entre sonido, forma y número, 
+experimentando con materiales visuales, manipulativos y sonoros que facilitan la 
+construcción de asociaciones intuitivas entre proporciones, patrones geométricos y 
+estructuras musicales. La dinámica de grupos cambiantes, además, hace posible observar 
+cómo emergen estas conexiones en periodos relativamente cortos, lo que resulta 
+especialmente valioso para analizar procesos iniciales de comprensión. 
+En este marco, los talleres STEAM se convierten en un escenario adecuado para que los 
+estudiantes se acerquen a la música desde una perspectiva interdisciplinar. La 
+combinación 
+de 
+experiencias 
+prácticas, 
+exploración 
+autónoma 
+y 
+estímulos 
+multisensoriales ofrece una vía accesible para introducir nociones relacionadas con la 
+armonía geométrica pitagórica. Al interactuar con representaciones visuales y auditivas, 
+los niños pueden descubrir, casi de manera natural, relaciones numéricas y estructurales 
+que subyacen en los fenómenos sonoros. 
+Por estas razones, esta población resulta pertinente para investigar cómo se introduce y 
+se comprende la armonía geométrica pitagórica en contextos educativos de corta 
+duración. La etapa de desarrollo en la que se encuentran, marcada por un aumento en su 
+capacidad de razonamiento, una sensibilidad perceptiva más fina y una disposición fuerte 
+hacia la exploración, permite analizar con claridad cómo construyen vínculos entre 
+música, geometría y pensamiento matemático. Los resultados derivados de este análisis 
+
+
+--- PAGE 30 ---
+pueden orientar el diseño de estrategias pedagógicas que integren la música en ambientes 
+STEAM y favorezcan un aprendizaje significativo desde un enfoque verdaderamente 
+interdisciplinar. 
+3.4. Instrumentos de indagación  
+(colocar que es instrumento de indagación y en los otros puntos, Pensar 
+en el lector o en los lectores)  
+Para llevar a cabo esta investigación se emplearán dos instrumentos de recolección de 
+información diseñados específicamente para el contexto del laboratorio CREA y para las 
+características de la población que participa en los talleres. Estos instrumentos permiten 
+obtener datos desde dos perspectivas complementarias: por un lado, la del equipo 
+pedagógico y logístico del laboratorio; por otro, la de los niños que asisten a las 
+actividades. 
+En primer lugar, se aplicará una encuesta dirigida a los asistentes y facilitadores del 
+CREA. Su propósito es evaluar la viabilidad pedagógica, técnica y logística de incluir un 
+taller sobre armonía geométrica pitagórica dentro de la estructura STEAM del laboratorio. 
+Esta encuesta permite recoger opiniones, recomendaciones y posibles retos asociados con 
+su implementación. 
+En segundo lugar, se utilizará una encuesta diseñada para los niños participantes. Está 
+redactada con un lenguaje sencillo y adecuado para su edad, y busca indagar su interés, 
+la forma en que perciben la actividad y su comprensión inicial de los contenidos 
+presentados durante el taller. 
+En conjunto, ambos instrumentos permiten obtener información clave para valorar el 
+impacto educativo del taller y orientar los ajustes metodológicos que sean necesarios para 
+mejorar su diseño y aplicación en futuras sesiones. 
+3.5. Plan de acción/Ruta metodológica/Diseño 
+metodológico  
+El proyecto se desarrolla a partir de una ruta metodológica organizada en diversas fases 
+que permiten diseñar, implementar y evaluar un taller STEAM centrado en la armonía 
+
+
+--- PAGE 31 ---
+geométrica pitagórica. Las etapas se articulan según las dinámicas y tiempos propios del 
+laboratorio CREA de la Universidad de los Andes, donde cada sesión recibe grupos 
+rotativos de niños entre 9 y 12 años. Esta estructura metodológica integra teoría, 
+experimentación, exploración creativa y análisis educativo dentro de un formato de corta 
+duración. 
+3.5.1 Fases o Etapas de desarrollo 
+Fase 1. Revisión teórica preliminar 
+En esta etapa se realiza una revisión de literatura sobre armonía pitagórica, proporciones 
+matemático-musicales, geometría del sonido y enfoques pedagógicos centrados en 
+STEAM y aprendizaje experiencial. Este análisis inicial permite construir los 
+fundamentos conceptuales que guiarán el diseño del taller y asegurar coherencia entre los 
+objetivos formativos y las actividades propuestas. 
+Fase 2. Diseño del taller piloto STEAM 
+Con base en la revisión teórica, se diseña tres talleres prácticos orientados a introducir a 
+los niños en los principios de la armonía geométrica pitagórica por medio de experiencias 
+experimentales y sensoriales. El diseño incluye: 
+• Una guía de actividades explicada paso a paso. 
+• Selección de materiales manipulativos (monocordio, cuerdas, figuras 
+geométricas, recursos digitales del CREA) 
+• Definición de una secuencia didáctica 
+• Formulación de objetivos cognitivos, creativos y procedimentales 
+• Una duración ajustada al formato habitual del laboratorio (entre 1 y 3 horas). 
+El énfasis se coloca en la exploración libre, la experimentación sonora y la visualización 
+de la relación entre geometría y música. 
+Fase 3. Diseño de instrumentos de indagación 
+Se elaboran instrumentos para obtener información sobre la pertinencia, comprensión e 
+impacto en los talleres: 
+• Una encuesta dirigida a asistentes y facilitadores del laboratorio CREA para 
+medir la viabilidad operativa. 
+
+
+--- PAGE 32 ---
+• Una encuesta breve pre y post taller aplicada a los niños, destinada a evaluar su 
+comprensión e interés. 
+• Una hoja de observación para registrar participación, comportamientos y 
+dinámicas grupales. 
+Fase 4. Validación con expertos 
+La propuesta de los talleres, junto con los instrumentos de evaluación, se somete a 
+revisión por parte de un docente STEAM y un profesional del laboratorio CREA. Esta 
+instancia garantiza la adecuación pedagógica, la seguridad, la factibilidad técnica y la 
+coherencia con la metodología del laboratorio. A partir de sus sugerencias, se realizan 
+los ajustes necesarios. 
+Fase 5. Implementación del taller piloto 
+Se ejecuta los talleres con diferentes grupos de niños dentro del rango de edad establecido. 
+Durante esta fase se desarrolla: 
+• Aplicación de la encuesta inicial 
+• Realización guiada de las actividades del taller 
+• Registro fotográfico o audiovisual del proceso 
+• Observación de la interacción y de la resolución de tareas 
+• Aplicación de la encuesta final 
+Esta implementación permite evaluar el comportamiento real de la propuesta en un 
+escenario educativo auténtico. 
+Fase 6. Análisis de la experiencia 
+A partir de las encuestas, registros y observaciones, se realiza un análisis cualitativo 
+orientado a identificar: 
+• El nivel de comprensión alcanzado por los estudiantes 
+• La forma en que se relacionan música y geometría 
+• Las dinámicas de participación 
+• El potencial del taller como recurso educativo STEAM 
+El análisis proporciona una visión integral del impacto de los talleres y de los elementos 
+susceptibles de mejorar. 
+
+
+--- PAGE 33 ---
+Fase 7. Refinamiento del taller 
+Con base en los hallazgos previos se ajustan actividades, tiempos, materiales y 
+explicaciones. Esta fase busca fortalecer la claridad conceptual, mejorar la experiencia 
+didáctica y optimizar el taller para futuras implementaciones. 
+Fase 8. Elaboración del informe final 
+Finalmente, se sistematiza el proceso completo en un informe que incluye los 
+fundamentos teóricos, el diseño de los talleres, los resultados de la implementación y el 
+análisis correspondiente. El documento reflexiona sobre la pertinencia de integrar la 
+armonía geométrica pitagórica en entornos STEAM y propone recomendaciones para su 
+continuidad o ampliación dentro del laboratorio CREA. 
+ 
+(mirar las observaciones de arriba, interlineado de 1.5 porque los párrafos están muy 
+densos)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 34 ---
+ 
+BIBLIOGRAFÍA 
+ 
+González, P. (2007). Pitágoras El Filósofo del Número (2da ed.). Nivola Libros y 
+Ediciones, S.L. 
+ 
+Fauvel, J., Flood, R., & Wilson, R. (2003). Music and Mathematics: From Pythagoras 
+to Fractals. Oxford University Press. 
+ 
+Johnson, T. (2003). Foundations of Diatonic Theory. (Primera Edición). Key Collage. 
+  
+Arias Valero, J. S. (2019). Música: Una danza geométrica; geometría: Una abstracción 
+musical. Universidad Nacional de Colombia. 
+ 
+Papadopoulos, A. (2015). Mathematics and group theory in music. En L. Ji, A. 
+Papadopoulos & S.-T. Yau (Eds.), Handbook of Group Actions, Vol. II (Advanced 
+Lectures in Mathematics, Vol. 32, pp. 525–572). International Press and Higher 
+Education Press. 
+ 
+Villamil, M. (2020). Música para enseñar matemáticas: La música como herramienta 
+para la enseñanza de las matemáticas [Trabajo de grado]. Universidad Pedagógica 
+Nacional. 
+ 
+Pachón, A. (2015). Matemáticas y Música: Una mirada a la Armonía desde la Teoría de 
+Grupos [Trabajo de grado]. Universidad Pedagógica Nacional. 
+ 
+
+
+--- PAGE 35 ---
+Atepor, S. (2020). Apoyando las clases de geometría con música: Investigando los 
+efectos sobre la actitud y el logro de los ocho básicos estudiantes [Tesis de maestría, 
+Universidad de Cape Coast]. 
+Bautista C., N. P. (2011). Proceso de la investigación cualitativa: Epistemología, 
+metodología y aplicaciones. Editorial El Manual Moderno (Colombia) Ltda. 
+https://uniclanet.unicla.edu.mx/assets/contenidos/152520240111214129.pdf  
+ 
+ 
+Berciano, A., Uskola, A., & Zamalloa, T. (2024). Evaluation of Mathematical and 
+Scientific Competences in Primary Education STEAM Projects in Spain: A Systematic 
+Review. Educ. Sci., 14(12), 1349. https://doi.org/10.3390/educsci14121349 
+ 
+ 
+Cardona Barrera, F., & Reyes Rodríguez, A. (2015). La teoría de Van Hiele: Niveles de 
+pensamiento Geométrico. PÄDI Boletín Científico de Ciencias Básicas e Ingenierías del 
+ICBI, 3(5). https://doi.org/10.29057/icbi.v3i5.554 
+ 
+ 
+Izcara Palacios, S. P. (2014). Manual de investigación cualitativa. Distribuciones 
+Fontamara, S. A. https://www.researchgate.net/profile/Simon-Izcara-
+Palacios/publication/271504124_MANUAL_DE_INVESTIGACION_CUALITATIVA
+/links/58949ab192851c54574b9fe7/MANUAL-DE-INVESTIGACION-
+CUALITATIVA.pdf  
+ 
+ 
+López-Cano, R., & San Cristóbal Opazo, Ú. (2014). Investigación artística en música: 
+Problemas, métodos, experiencias y modelos. Rubén López Cano y Úrsula San 
+Cristóbal. https://hugoribeiro.com.br/biblioteca-digital/Cano_Opazo-
+investigacion_artistica_musica.pdf  
+ 
+ 
+Ñaupas Paitán, H., Valdivia Dueñas, M. R., Palacios Vilela, J. J., & Romero Delgado, 
+H. E. (s. f.). (2018). Metodología de la investigación: Cuantitativa - Cualitativa y 
+
+
+--- PAGE 36 ---
+Redacción de la Tesis. Ediciones de la U conocimiento a su alcance Bogotá - México, 
+DF. https://edicionesdelau.com/wp-content/uploads/2018/09/Anexos-
+Metodologia_%C3%91aupas_5aEd.pdf  
+ 
+Restrepo Gómez, B. (2004). La investigación-acción educativa y la construcción de 
+saber pedagógico. Educación y Educadores, (7), 45–55. 
+https://www.redalyc.org/pdf/834/83400706.pdf  
+ 
+ 
+Vergnaud, G. (1990). La teoría de los campos conceptuales. Recherches en Didactique 
+des Mathématiques, 10(2/3). 
+file:///C:/Users/Usuario/Downloads/La_teoria_de_Van_Hiele_Niveles_de_pensamiento
+_Geom%20(1).pdf  
+ 
+ 
